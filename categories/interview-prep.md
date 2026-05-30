@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="../assets/banners/category-interview-prep.svg" alt="Interview Prep" width="800"/>
+  <img src="../assets/banners/category-interview-prep.svg" alt="Interview Prep" width="100%"/>
 </p>
 
 # Interview Prep
 
-18 shorts. Practice problems and walkthroughs.
+10 shorts. Practice problems and walkthroughs for data interviews.
 
 <table>
 <tr>
@@ -61,71 +61,25 @@
   <sub><b>SQL interview question: Use a Common Table Expression (CTE) to identify employees earning more than</b><br/>746 views</sub>
 </td>
 <td>
-  <a href="https://www.youtube.com/shorts/NR1ViUE2T2w">
-    <img src="https://img.youtube.com/vi/NR1ViUE2T2w/hqdefault.jpg" width="220"/>
-  </a><br/>
-  <sub><b>Data analyst interview questions: Scenario-based questions 1</b><br/>727 views</sub>
-</td>
-</tr>
-<tr>
-<td>
   <a href="https://www.youtube.com/shorts/UeBHP9_wYuQ">
     <img src="https://img.youtube.com/vi/UeBHP9_wYuQ/hqdefault.jpg" width="220"/>
   </a><br/>
   <sub><b>SQL interview question: Use a window function to rank employees by their salary within each</b><br/>716 views</sub>
 </td>
+</tr>
+<tr>
 <td>
   <a href="https://www.youtube.com/shorts/2fP8Jtkld6w">
     <img src="https://img.youtube.com/vi/2fP8Jtkld6w/hqdefault.jpg" width="220"/>
   </a><br/>
   <sub><b>SQL interview question: Identify the departments where the total salary exceeds 150,000.</b><br/>640 views</sub>
 </td>
-<td>
-  <a href="https://www.youtube.com/shorts/HsGwrXhdWi0">
-    <img src="https://img.youtube.com/vi/HsGwrXhdWi0/hqdefault.jpg" width="220"/>
-  </a><br/>
-  <sub><b>5 data analyst interview questions you might get asked 1</b><br/>580 views</sub>
-</td>
-</tr>
-<tr>
-<td>
-  <a href="https://www.youtube.com/shorts/ovanHTpOslE">
-    <img src="https://img.youtube.com/vi/ovanHTpOslE/hqdefault.jpg" width="220"/>
-  </a><br/>
-  <sub><b>5 interview questions for data analysts: 1</b><br/>272 views</sub>
-</td>
-<td>
-  <a href="https://www.youtube.com/shorts/7XuY9Qvfe8M">
-    <img src="https://img.youtube.com/vi/7XuY9Qvfe8M/hqdefault.jpg" width="220"/>
-  </a><br/>
-  <sub><b>Data analyst interview questions: 1</b><br/>258 views</sub>
-</td>
-<td>
-  <a href="https://www.youtube.com/shorts/Vw41e9QlBHI">
-    <img src="https://img.youtube.com/vi/Vw41e9QlBHI/hqdefault.jpg" width="220"/>
-  </a><br/>
-  <sub><b>Data analyst interview questions 1</b><br/>228 views</sub>
-</td>
-</tr>
-<tr>
-<td>
-  <a href="https://www.youtube.com/shorts/CTZ7zkC2jVA">
-    <img src="https://img.youtube.com/vi/CTZ7zkC2jVA/hqdefault.jpg" width="220"/>
-  </a><br/>
-  <sub><b>Data engineer interview questions 1</b><br/>226 views</sub>
-</td>
-<td>
-  <a href="https://www.youtube.com/shorts/p6DVfBhiJPU">
-    <img src="https://img.youtube.com/vi/p6DVfBhiJPU/hqdefault.jpg" width="220"/>
-  </a><br/>
-  <sub><b>Data analyst interview questions 1</b><br/>178 views</sub>
-</td>
-<td>
-  <a href="https://www.youtube.com/shorts/pKPNkX-QpoU">
-    <img src="https://img.youtube.com/vi/pKPNkX-QpoU/hqdefault.jpg" width="220"/>
-  </a><br/>
-  <sub><b>Data analyst interview questions: Technical questions 1</b><br/>131 views</sub>
-</td>
 </tr>
 </table>
+## Related categories
+
+- [SQL](./sql.md) - Querying, joins, aggregation, optimisation.
+- [Python](./python.md) - OOP, SOLID principles, scripting, automation, data work.
+- [Data Analytics / Career](./data-analytics-career.md) - Datasets, career advice, market context, role transitions.
+
 [<- Back to library](../README.md)
