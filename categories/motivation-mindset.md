@@ -65,4 +65,16 @@
 - [Data Analytics / Career](./data-analytics-career.md) &nbsp;·&nbsp; Datasets, career advice, market context, role transitions.
 - [Learning Resources](./learning-resources.md) &nbsp;·&nbsp; Curated lists: free sites, channels, courses, books.
 
+## Stay in the loop
+
+<p align="center">
+  <a href="https://data100x.carrd.co/"><strong>Join the free data community →</strong></a><br/>
+  <sub>Weekly drops, member projects, no spam, 100% free.</sub>
+</p>
+
+<p align="center">
+  <a href="https://datapro.carrd.co/"><strong>How I broke into data →</strong></a><br/>
+  <sub>The full career story. What worked, what did not, what I would do differently.</sub>
+</p>
+
 <p align="center"><a href="../README.md">← Back to library</a></p>

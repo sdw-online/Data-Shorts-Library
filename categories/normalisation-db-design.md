@@ -31,4 +31,11 @@
 - [SQL](./sql.md) &nbsp;·&nbsp; Querying, joins, aggregation, optimisation.
 - [Data Engineering](./data-engineering.md) &nbsp;·&nbsp; Pipelines, infra, orchestration, cloud tooling.
 
+## Stay in the loop
+
+<p align="center">
+  <a href="https://data100x.carrd.co/"><strong>Join the free data community →</strong></a><br/>
+  <sub>Weekly drops, member projects, no spam, 100% free.</sub>
+</p>
+
 <p align="center"><a href="../README.md">← Back to library</a></p>

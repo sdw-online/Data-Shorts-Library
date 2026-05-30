@@ -398,6 +398,13 @@ Pick the path that matches where you are right now.
 - **[Portfolio repo](https://github.com/sdw-online/Data-Projects-Portfolio)** &nbsp;·&nbsp; end-to-end builds + Notion blueprint pack
 - **[YouTube channel](https://www.youtube.com/@sdw-online)** &nbsp;·&nbsp; the source for everything here
 
+## Join the community
+
+<p align="center">
+  <a href="https://data100x.carrd.co/"><strong>Join the free data community →</strong></a><br/>
+  <sub>Weekly drops, member projects, no spam, 100% free.</sub>
+</p>
+
 <p align="center">
   <a href="https://www.youtube.com/@sdw-online?sub_confirmation=1"><img src="./assets/banners/support-creator.svg" alt="Subscribe on YouTube" width="100%"/></a>
 </p>
