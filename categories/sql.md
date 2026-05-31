@@ -270,6 +270,8 @@
 - [Interview Prep](./interview-prep.md) &nbsp;·&nbsp; Practice problems and walkthroughs for data interviews.
 - [Data Engineering](./data-engineering.md) &nbsp;·&nbsp; Pipelines, infra, orchestration, cloud tooling.
 
+<p align="center"><sub>Want the deeper material? <a href="https://davidwilliams2.gumroad.com/l/cxypl"><b>SQL Made Easy</b></a> on Gumroad.</sub></p>
+
 ## Stay in the loop
 
 <p align="center">

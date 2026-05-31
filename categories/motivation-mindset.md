@@ -65,6 +65,8 @@
 - [Data Analytics / Career](./data-analytics-career.md) &nbsp;·&nbsp; Datasets, career advice, market context, role transitions.
 - [Learning Resources](./learning-resources.md) &nbsp;·&nbsp; Curated lists: free sites, channels, courses, books.
 
+<p align="center"><sub>Want the deeper material? <a href="https://davidwilliams2.gumroad.com/l/lwfbsu"><b>How to become a data professional (free guide)</b></a> on Gumroad.</sub></p>
+
 ## Stay in the loop
 
 <p align="center">

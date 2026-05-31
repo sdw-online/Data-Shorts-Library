@@ -66,6 +66,8 @@
 - [Python](./python.md) &nbsp;·&nbsp; OOP, SOLID principles, scripting, automation, data work.
 - [Data Analytics / Career](./data-analytics-career.md) &nbsp;·&nbsp; Datasets, career advice, market context, role transitions.
 
+<p align="center"><sub>Want the deeper material? <a href="https://davidwilliams2.gumroad.com/l/mfpaqu"><b>Data Pro Development Tracker</b></a> on Gumroad.</sub></p>
+
 ## Stay in the loop
 
 <p align="center">

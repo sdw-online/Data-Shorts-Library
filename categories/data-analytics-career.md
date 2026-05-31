@@ -280,6 +280,8 @@
 - [Learning Resources](./learning-resources.md) &nbsp;·&nbsp; Curated lists: free sites, channels, courses, books.
 - [Motivation / Mindset](./motivation-mindset.md) &nbsp;·&nbsp; Building, shipping, growing, sustaining the work.
 
+<p align="center"><sub>Want the deeper material? <a href="https://davidwilliams2.gumroad.com/l/ndapq"><b>Data Analyst Starter Pack</b></a> on Gumroad.</sub></p>
+
 ## Stay in the loop
 
 <p align="center">
