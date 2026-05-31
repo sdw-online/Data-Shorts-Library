@@ -42,7 +42,7 @@ flowchart TD
     Q -->|Switching<br/>into data| DA[Career<br/>shorts]
     Q -->|Building<br/>dashboards| BI[Power BI<br/>+ Tableau]
     Q -->|Need a<br/>portfolio piece| PT[Portfolio repo]
-    Q -->|Need a kick<br/>in the pants| MM[Motivation<br/>+ Mindset]
+    Q -->|Need a kick<br/>in the backside| MM[Motivation<br/>+ Mindset]
 
     LR --> SC[30 Day SQL<br/>Challenge]
     SQL --> SC
@@ -55,16 +55,16 @@ flowchart TD
     BI --> XL
     MM --> DA
 
-    click LR "./categories/learning-resources.md"
-    click SQL "./categories/sql.md"
-    click XL "./categories/excel.md"
-    click PY "./categories/python.md"
-    click DE "./categories/data-engineering.md"
-    click DB "./categories/normalisation-db-design.md"
-    click IP "./categories/interview-prep.md"
-    click DA "./categories/data-analytics-career.md"
-    click BI "./categories/power-bi-tableau.md"
-    click MM "./categories/motivation-mindset.md"
+    click LR "https://github.com/sdw-online/Data-Shorts-Library/blob/main/categories/learning-resources.md" _blank
+    click SQL "https://github.com/sdw-online/Data-Shorts-Library/blob/main/categories/sql.md" _blank
+    click XL "https://github.com/sdw-online/Data-Shorts-Library/blob/main/categories/excel.md" _blank
+    click PY "https://github.com/sdw-online/Data-Shorts-Library/blob/main/categories/python.md" _blank
+    click DE "https://github.com/sdw-online/Data-Shorts-Library/blob/main/categories/data-engineering.md" _blank
+    click DB "https://github.com/sdw-online/Data-Shorts-Library/blob/main/categories/normalisation-db-design.md" _blank
+    click IP "https://github.com/sdw-online/Data-Shorts-Library/blob/main/categories/interview-prep.md" _blank
+    click DA "https://github.com/sdw-online/Data-Shorts-Library/blob/main/categories/data-analytics-career.md" _blank
+    click BI "https://github.com/sdw-online/Data-Shorts-Library/blob/main/categories/power-bi-tableau.md" _blank
+    click MM "https://github.com/sdw-online/Data-Shorts-Library/blob/main/categories/motivation-mindset.md" _blank
     click SC "https://github.com/sdw-online/30-Day-SQL-Challenge" _blank
     click EC "https://github.com/sdw-online/30-Day-Excel-Challenge" _blank
     click PT "https://github.com/sdw-online/Data-Projects-Portfolio" _blank
