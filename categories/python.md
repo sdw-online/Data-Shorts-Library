@@ -8,6 +8,8 @@
 
 <sub>76 shorts &nbsp;·&nbsp; 273.5K total views &nbsp;·&nbsp; OOP, SOLID principles, scripting, automation, data work.</sub>
 
+> Python the language, OOP the discipline, SOLID the principles - bite-size lessons that compound.
+
 > **Most-watched** &nbsp;·&nbsp; [Use Python to create a simple ETL data pipeline to extract, transform and load...](https://www.youtube.com/shorts/d3Q7czh-tqo) &nbsp;·&nbsp; 94K views
 
 <table>
@@ -370,9 +372,9 @@
 </table>
 ## Related categories
 
-- [Data Engineering](./data-engineering.md) &nbsp;·&nbsp; Pipelines, infra, orchestration, cloud tooling.
+- [Data Engineering](./data-engineering.md) &nbsp;·&nbsp; Pipelines, infra, orchestration, cloud tooling - the plumbing.
 - [Interview Prep](./interview-prep.md) &nbsp;·&nbsp; Practice problems and walkthroughs for data interviews.
-- [Learning Resources](./learning-resources.md) &nbsp;·&nbsp; Curated lists: free sites, channels, courses, books.
+- [Learning Resources](./learning-resources.md) &nbsp;·&nbsp; Curated lists - free sites, channels, courses, books.
 
 ## Stay in the loop
 

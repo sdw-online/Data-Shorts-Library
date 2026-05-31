@@ -6,7 +6,9 @@
 
 # SQL
 
-<sub>54 shorts &nbsp;·&nbsp; 93.3K total views &nbsp;·&nbsp; Querying, joins, aggregation, optimisation.</sub>
+<sub>54 shorts &nbsp;·&nbsp; 93.3K total views &nbsp;·&nbsp; Querying, joins, aggregation, optimisation - the everyday SQL toolkit.</sub>
+
+> If you can query a database with confidence, you can pull the truth out of any system you touch. Start with the most-watched, dig wider when something clicks.
 
 > **Most-watched** &nbsp;·&nbsp; [Use INNER JOINs in SQL to combine multiple tables to show only the records that...](https://www.youtube.com/shorts/zFXHQUlGLkc) &nbsp;·&nbsp; 23K views
 
@@ -266,9 +268,9 @@
 </table>
 ## Related categories
 
-- [Normalisation / DB Design](./normalisation-db-design.md) &nbsp;·&nbsp; Schema design fundamentals: 1NF, 2NF, 3NF.
+- [Normalisation / DB Design](./normalisation-db-design.md) &nbsp;·&nbsp; Schema design fundamentals - 1NF, 2NF, 3NF, and why it matters.
 - [Interview Prep](./interview-prep.md) &nbsp;·&nbsp; Practice problems and walkthroughs for data interviews.
-- [Data Engineering](./data-engineering.md) &nbsp;·&nbsp; Pipelines, infra, orchestration, cloud tooling.
+- [Data Engineering](./data-engineering.md) &nbsp;·&nbsp; Pipelines, infra, orchestration, cloud tooling - the plumbing.
 
 <p align="center"><sub>Want the deeper material? <a href="https://davidwilliams2.gumroad.com/l/cxypl"><b>SQL Made Easy</b></a> on Gumroad.</sub></p>
 

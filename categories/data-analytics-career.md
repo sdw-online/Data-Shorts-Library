@@ -8,6 +8,8 @@
 
 <sub>56 shorts &nbsp;·&nbsp; 67.3K total views &nbsp;·&nbsp; Datasets, career advice, market context, role transitions.</sub>
 
+> Career, market, and role context - the non-technical half of getting paid to work with data.
+
 > **Most-watched** &nbsp;·&nbsp; [YouTube channels for data analysts](https://www.youtube.com/shorts/GOqAMmlwg80) &nbsp;·&nbsp; 18K views
 
 <table>
@@ -277,7 +279,7 @@
 ## Related categories
 
 - [Interview Prep](./interview-prep.md) &nbsp;·&nbsp; Practice problems and walkthroughs for data interviews.
-- [Learning Resources](./learning-resources.md) &nbsp;·&nbsp; Curated lists: free sites, channels, courses, books.
+- [Learning Resources](./learning-resources.md) &nbsp;·&nbsp; Curated lists - free sites, channels, courses, books.
 - [Motivation / Mindset](./motivation-mindset.md) &nbsp;·&nbsp; Building, shipping, growing, sustaining the work.
 
 <p align="center"><sub>Want the deeper material? <a href="https://davidwilliams2.gumroad.com/l/ndapq"><b>Data Analyst Starter Pack</b></a> on Gumroad.</sub></p>

@@ -6,7 +6,9 @@
 
 # Learning Resources
 
-<sub>29 shorts &nbsp;·&nbsp; 26.8K total views &nbsp;·&nbsp; Curated lists: free sites, channels, courses, books.</sub>
+<sub>29 shorts &nbsp;·&nbsp; 26.8K total views &nbsp;·&nbsp; Curated lists - free sites, channels, courses, books.</sub>
+
+> Lists of the best free sites, channels, courses, and books I have found for learning data skills.
 
 > **Most-watched** &nbsp;·&nbsp; [4 YouTube channels for guided data projects - Ansh Lamba - CodeWithYu - Alex the...](https://www.youtube.com/shorts/dtAMT-lC1qc) &nbsp;·&nbsp; 3.2K views
 
@@ -150,9 +152,9 @@
 </table>
 ## Related categories
 
-- [SQL](./sql.md) &nbsp;·&nbsp; Querying, joins, aggregation, optimisation.
+- [SQL](./sql.md) &nbsp;·&nbsp; Querying, joins, aggregation, optimisation - the everyday SQL toolkit.
 - [Python](./python.md) &nbsp;·&nbsp; OOP, SOLID principles, scripting, automation, data work.
-- [Excel](./excel.md) &nbsp;·&nbsp; Lookups, pivots, formulas, productivity.
+- [Excel](./excel.md) &nbsp;·&nbsp; Lookups, pivots, formulas, the productivity tricks that pay off daily.
 
 ## Stay in the loop
 

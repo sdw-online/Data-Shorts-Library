@@ -8,6 +8,8 @@
 
 <sub>10 shorts &nbsp;·&nbsp; 11K total views &nbsp;·&nbsp; BI tooling, dashboard design, viz comparisons.</sub>
 
+> BI tooling shorts. Small bucket; sharper picks.
+
 > **Most-watched** &nbsp;·&nbsp; [5 popular data visualization tools used in tech: 1](https://www.youtube.com/shorts/14My_JIKgQE) &nbsp;·&nbsp; 2.7K views
 
 <table>
@@ -62,9 +64,9 @@
 </table>
 ## Related categories
 
-- [Excel](./excel.md) &nbsp;·&nbsp; Lookups, pivots, formulas, productivity.
+- [Excel](./excel.md) &nbsp;·&nbsp; Lookups, pivots, formulas, the productivity tricks that pay off daily.
 - [Data Analytics / Career](./data-analytics-career.md) &nbsp;·&nbsp; Datasets, career advice, market context, role transitions.
-- [Learning Resources](./learning-resources.md) &nbsp;·&nbsp; Curated lists: free sites, channels, courses, books.
+- [Learning Resources](./learning-resources.md) &nbsp;·&nbsp; Curated lists - free sites, channels, courses, books.
 
 ## Stay in the loop
 

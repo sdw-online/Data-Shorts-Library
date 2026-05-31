@@ -8,6 +8,8 @@
 
 <sub>13 shorts &nbsp;·&nbsp; 9.6K total views &nbsp;·&nbsp; Crossover topics that do not fit anywhere else.</sub>
 
+> Cross-cutting and miscellaneous topics that did not fit anywhere else.
+
 > **Most-watched** &nbsp;·&nbsp; [Use SOAP APIs (Simple Object Access Protocol) to exchange sensitive information via...](https://www.youtube.com/shorts/tdV7me48QeY) &nbsp;·&nbsp; 4.5K views
 
 <table>
@@ -76,7 +78,7 @@
 </table>
 ## Related categories
 
-- [Learning Resources](./learning-resources.md) &nbsp;·&nbsp; Curated lists: free sites, channels, courses, books.
+- [Learning Resources](./learning-resources.md) &nbsp;·&nbsp; Curated lists - free sites, channels, courses, books.
 - [Data Analytics / Career](./data-analytics-career.md) &nbsp;·&nbsp; Datasets, career advice, market context, role transitions.
 
 ## Stay in the loop

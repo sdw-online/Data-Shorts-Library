@@ -8,6 +8,8 @@
 
 <sub>10 shorts &nbsp;·&nbsp; 6.3K total views &nbsp;·&nbsp; Building, shipping, growing, sustaining the work.</sub>
 
+> The unsexy half of getting good at anything - showing up, sustaining the work, growing on purpose.
+
 > **Most-watched** &nbsp;·&nbsp; [Anything is possible if you truly believe it](https://www.youtube.com/shorts/cm9b_S85dJk) &nbsp;·&nbsp; 1.6K views
 
 <table>
@@ -63,7 +65,7 @@
 ## Related categories
 
 - [Data Analytics / Career](./data-analytics-career.md) &nbsp;·&nbsp; Datasets, career advice, market context, role transitions.
-- [Learning Resources](./learning-resources.md) &nbsp;·&nbsp; Curated lists: free sites, channels, courses, books.
+- [Learning Resources](./learning-resources.md) &nbsp;·&nbsp; Curated lists - free sites, channels, courses, books.
 
 <p align="center"><sub>Want the deeper material? <a href="https://davidwilliams2.gumroad.com/l/lwfbsu"><b>How to become a data professional (free guide)</b></a> on Gumroad.</sub></p>
 

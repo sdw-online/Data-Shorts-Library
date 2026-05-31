@@ -8,6 +8,8 @@
 
 <sub>10 shorts &nbsp;·&nbsp; 12.3K total views &nbsp;·&nbsp; Practice problems and walkthroughs for data interviews.</sub>
 
+> Real interview questions worked out loud. Pattern-match against what gets asked.
+
 > **Most-watched** &nbsp;·&nbsp; [SQL interview question: Calculate the total salary for each department](https://www.youtube.com/shorts/8OgdboG5Lx0) &nbsp;·&nbsp; 2.5K views
 
 <table>
@@ -62,7 +64,7 @@
 </table>
 ## Related categories
 
-- [SQL](./sql.md) &nbsp;·&nbsp; Querying, joins, aggregation, optimisation.
+- [SQL](./sql.md) &nbsp;·&nbsp; Querying, joins, aggregation, optimisation - the everyday SQL toolkit.
 - [Python](./python.md) &nbsp;·&nbsp; OOP, SOLID principles, scripting, automation, data work.
 - [Data Analytics / Career](./data-analytics-career.md) &nbsp;·&nbsp; Datasets, career advice, market context, role transitions.
 

@@ -6,7 +6,9 @@
 
 # Excel
 
-<sub>29 shorts &nbsp;·&nbsp; 44.8K total views &nbsp;·&nbsp; Lookups, pivots, formulas, productivity.</sub>
+<sub>29 shorts &nbsp;·&nbsp; 44.8K total views &nbsp;·&nbsp; Lookups, pivots, formulas, the productivity tricks that pay off daily.</sub>
+
+> Excel still runs the world. These shorts are the moves that actually change how fast you ship.
 
 > **Most-watched** &nbsp;·&nbsp; [5 websites to practice Excel online for FREE: 1](https://www.youtube.com/shorts/sIHnTGxhRSY) &nbsp;·&nbsp; 9.9K views
 
@@ -152,7 +154,7 @@
 
 - [Power BI / Tableau](./power-bi-tableau.md) &nbsp;·&nbsp; BI tooling, dashboard design, viz comparisons.
 - [Data Analytics / Career](./data-analytics-career.md) &nbsp;·&nbsp; Datasets, career advice, market context, role transitions.
-- [Learning Resources](./learning-resources.md) &nbsp;·&nbsp; Curated lists: free sites, channels, courses, books.
+- [Learning Resources](./learning-resources.md) &nbsp;·&nbsp; Curated lists - free sites, channels, courses, books.
 
 <p align="center"><sub>Want the deeper material? <a href="https://davidwilliams2.gumroad.com/l/rlrkqua"><b>Excel Made Easy</b></a> on Gumroad.</sub></p>
 

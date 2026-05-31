@@ -6,7 +6,9 @@
 
 # Data Engineering
 
-<sub>29 shorts &nbsp;·&nbsp; 30.9K total views &nbsp;·&nbsp; Pipelines, infra, orchestration, cloud tooling.</sub>
+<sub>29 shorts &nbsp;·&nbsp; 30.9K total views &nbsp;·&nbsp; Pipelines, infra, orchestration, cloud tooling - the plumbing.</sub>
+
+> Where data analytics meets infrastructure. The shorts here are about the plumbing that nobody sees until it breaks.
 
 > **Most-watched** &nbsp;·&nbsp; [What is normalization in data engineering? Why do we need this for designing...](https://www.youtube.com/shorts/xnkHTFq_Gso) &nbsp;·&nbsp; 8.3K views
 
@@ -151,7 +153,7 @@
 ## Related categories
 
 - [Python](./python.md) &nbsp;·&nbsp; OOP, SOLID principles, scripting, automation, data work.
-- [SQL](./sql.md) &nbsp;·&nbsp; Querying, joins, aggregation, optimisation.
+- [SQL](./sql.md) &nbsp;·&nbsp; Querying, joins, aggregation, optimisation - the everyday SQL toolkit.
 - [Data Analytics / Career](./data-analytics-career.md) &nbsp;·&nbsp; Datasets, career advice, market context, role transitions.
 
 ## Stay in the loop

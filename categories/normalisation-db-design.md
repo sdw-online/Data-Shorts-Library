@@ -6,7 +6,9 @@
 
 # Normalisation / DB Design
 
-<sub>3 shorts &nbsp;·&nbsp; 13K total views &nbsp;·&nbsp; Schema design fundamentals: 1NF, 2NF, 3NF.</sub>
+<sub>3 shorts &nbsp;·&nbsp; 13K total views &nbsp;·&nbsp; Schema design fundamentals - 1NF, 2NF, 3NF, and why it matters.</sub>
+
+> How tables should be shaped so queries are easy and nothing rots. Niche but load-bearing.
 
 > **Most-watched** &nbsp;·&nbsp; [What is Third Normal Form (3NF) in normalization?](https://www.youtube.com/shorts/4fhM5zYYfh8) &nbsp;·&nbsp; 7.6K views
 
@@ -28,8 +30,8 @@
 </table>
 ## Related categories
 
-- [SQL](./sql.md) &nbsp;·&nbsp; Querying, joins, aggregation, optimisation.
-- [Data Engineering](./data-engineering.md) &nbsp;·&nbsp; Pipelines, infra, orchestration, cloud tooling.
+- [SQL](./sql.md) &nbsp;·&nbsp; Querying, joins, aggregation, optimisation - the everyday SQL toolkit.
+- [Data Engineering](./data-engineering.md) &nbsp;·&nbsp; Pipelines, infra, orchestration, cloud tooling - the plumbing.
 
 ## Stay in the loop
 

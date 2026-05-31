@@ -2,31 +2,86 @@
   <img src="./assets/banners/hero.svg" alt="Data Shorts Library" width="100%"/>
 </p>
 
-<p align="center"><i>Every data short I've made, sorted by what landed hardest.</i></p>
+<p align="center"><i>Every data short I've made, in one place, sorted by what landed hardest.</i></p>
 
 <p align="center"><sub><b>319 shorts</b> &nbsp;·&nbsp; <b>11 categories</b> &nbsp;·&nbsp; <b>588.8K total views</b> &nbsp;·&nbsp; weekly drops &nbsp;·&nbsp; <a href="https://www.youtube.com/@sdw-online?sub_confirmation=1">subscribe</a></sub></p>
 
 <p align="center"><sub><b>Jump to:</b> [SQL](#sql) &nbsp;·&nbsp; [Excel](#excel) &nbsp;·&nbsp; [Python](#python) &nbsp;·&nbsp; [DE](#data-engineering) &nbsp;·&nbsp; [Analytics](#data-analytics-career) &nbsp;·&nbsp; [BI](#power-bi-tableau) &nbsp;·&nbsp; [DB](#normalisation-db-design) &nbsp;·&nbsp; [Interviews](#interview-prep) &nbsp;·&nbsp; [Resources](#learning-resources) &nbsp;·&nbsp; [Mindset](#motivation-mindset) &nbsp;·&nbsp; [Other](#other)</sub></p>
 
-## Where to start
+## How to use this library
 
-Pick the path that matches where you are right now.
+Three steps. That's the whole flow.
 
-| You are... | Start here | Then this |
-|---|---|---|
-| **New to data, want a structured path** | [Learning Resources](./categories/learning-resources.md) | [30 Day SQL Challenge](https://github.com/sdw-online/30-Day-SQL-Challenge) |
-| **Learning SQL** | [SQL shorts](./categories/sql.md) | [30 Day SQL Challenge](https://github.com/sdw-online/30-Day-SQL-Challenge) |
-| **Learning Excel** | [Excel shorts](./categories/excel.md) | [30 Day Excel Challenge](https://github.com/sdw-online/30-Day-Excel-Challenge) |
-| **Learning Python** | [Python shorts](./categories/python.md) | [Data Engineering shorts](./categories/data-engineering.md) |
-| **Building pipelines / infra** | [Data Engineering shorts](./categories/data-engineering.md) | [Python shorts](./categories/python.md) |
-| **Designing a database schema** | [Normalisation / DB Design](./categories/normalisation-db-design.md) | [SQL shorts](./categories/sql.md) |
-| **Interviewing soon** | [Interview Prep](./categories/interview-prep.md) | [SQL shorts](./categories/sql.md) |
-| **Switching into data / career advice** | [Data Analytics / Career](./categories/data-analytics-career.md) | [Learning Resources](./categories/learning-resources.md) |
-| **Building dashboards** | [Power BI / Tableau](./categories/power-bi-tableau.md) | [Excel shorts](./categories/excel.md) |
-| **Want a portfolio project** | [Portfolio repo](https://github.com/sdw-online/Data-Projects-Portfolio) | back here for skill drills |
-| **Need a kick in the pants** | [Motivation / Mindset](./categories/motivation-mindset.md) | [Data Analytics / Career](./categories/data-analytics-career.md) |
+```mermaid
+flowchart LR
+    A([Pick a category<br/>from the map below]) --> B([Watch the<br/>top 5 most-watched])
+    B --> C([Browse all if it landed,<br/>or jump to a related category])
+    C --> D([Try the matching challenge<br/>when you are ready])
+
+    style A fill:#312e81,stroke:#a5b4fc,stroke-width:2px,color:#ffffff
+    style B fill:#4338ca,stroke:#a5b4fc,stroke-width:2px,color:#ffffff
+    style C fill:#4f46e5,stroke:#a5b4fc,stroke-width:2px,color:#ffffff
+    style D fill:#f59e0b,stroke:#fbbf24,stroke-width:2px,color:#1f2937
+```
+
+## Find your path
+
+Not sure where to start? Tell me where you are - I'll point you somewhere useful.
+
+```mermaid
+flowchart TD
+    Q{Where are<br/>you right now?}
+
+    Q -->|New to data| LR[Learning<br/>Resources]
+    Q -->|Learning SQL| SQL[SQL shorts]
+    Q -->|Learning Excel| XL[Excel shorts]
+    Q -->|Learning Python| PY[Python shorts]
+    Q -->|Building<br/>pipelines| DE[Data<br/>Engineering]
+    Q -->|Designing a<br/>database| DB[Normalisation<br/>+ DB Design]
+    Q -->|Interviewing<br/>soon| IP[Interview<br/>Prep]
+    Q -->|Switching<br/>into data| DA[Career<br/>shorts]
+    Q -->|Building<br/>dashboards| BI[Power BI<br/>+ Tableau]
+    Q -->|Need a<br/>portfolio piece| PT[Portfolio repo]
+    Q -->|Need a kick<br/>in the pants| MM[Motivation<br/>+ Mindset]
+
+    LR --> SC[30 Day SQL<br/>Challenge]
+    SQL --> SC
+    XL --> EC[30 Day Excel<br/>Challenge]
+    PY --> DE
+    DE --> PY
+    DB --> SQL
+    IP --> SQL
+    DA --> LR
+    BI --> XL
+    MM --> DA
+
+    click LR "./categories/learning-resources.md"
+    click SQL "./categories/sql.md"
+    click XL "./categories/excel.md"
+    click PY "./categories/python.md"
+    click DE "./categories/data-engineering.md"
+    click DB "./categories/normalisation-db-design.md"
+    click IP "./categories/interview-prep.md"
+    click DA "./categories/data-analytics-career.md"
+    click BI "./categories/power-bi-tableau.md"
+    click MM "./categories/motivation-mindset.md"
+    click SC "https://github.com/sdw-online/30-Day-SQL-Challenge" _blank
+    click EC "https://github.com/sdw-online/30-Day-Excel-Challenge" _blank
+    click PT "https://github.com/sdw-online/Data-Projects-Portfolio" _blank
+
+    classDef start fill:#1e1b4b,stroke:#a5b4fc,stroke-width:2px,color:#ffffff
+    classDef cat fill:#4338ca,stroke:#818cf8,stroke-width:2px,color:#ffffff
+    classDef ext fill:#f59e0b,stroke:#fbbf24,stroke-width:2px,color:#1f2937
+    class Q start
+    class LR,SQL,XL,PY,DE,DB,IP,DA,BI,MM cat
+    class SC,EC,PT ext
+```
+
+<sub><i>Click any node to jump to that page.</i></sub>
 
 ## Browse by category
+
+<sub>Eleven categories. Each card shows the top 5 most-watched in that bucket. Hit <b>browse all</b> for the full list, ranked by views.</sub>
 
 <a id="sql"></a>
 
