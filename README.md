@@ -450,7 +450,7 @@ flowchart TD
 
 - **[30 Day SQL Challenge](https://github.com/sdw-online/30-Day-SQL-Challenge)** &nbsp;·&nbsp; structured month of SQL
 - **[30 Day Excel Challenge](https://github.com/sdw-online/30-Day-Excel-Challenge)** &nbsp;·&nbsp; structured month of Excel
-- **[Portfolio repo](https://github.com/sdw-online/Data-Projects-Portfolio)** &nbsp;·&nbsp; end-to-end builds + Notion blueprint pack
+- **[Portfolio repo](https://github.com/sdw-online/Data-Projects-Portfolio)** &nbsp;·&nbsp; end-to-end builds + the projects pack
 - **[YouTube channel](https://www.youtube.com/@sdw-online)** &nbsp;·&nbsp; the source for everything here
 
 ## Join the community
