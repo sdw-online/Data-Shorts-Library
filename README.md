@@ -79,6 +79,10 @@ flowchart TD
 
 <sub><i>Click any node to jump to that page.</i></sub>
 
+<p align="center">
+  <a href="https://data100x.carrd.co/"><img src="./assets/banners/community-cta.svg" alt="Join the free data community" width="100%"/></a>
+</p>
+
 ## Browse by category
 
 <sub>Eleven categories. Each card shows the top 5 most-watched in that bucket. Hit <b>browse all</b> for the full list, ranked by views.</sub>
